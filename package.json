@@ -1,0 +1,22 @@
+{
+  "name": "liason-notification",
+  "version": "1.0.0",
+  "description": "Notification Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnjoroge/liason-notification.git"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "author": "robert.njoroge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnjoroge/liason-notification/issues"
+  },
+  "homepage": "https://github.com/rnjoroge/liason-notification#readme"
+}
